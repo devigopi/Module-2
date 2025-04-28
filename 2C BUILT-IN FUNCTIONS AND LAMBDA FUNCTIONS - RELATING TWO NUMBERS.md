@@ -33,9 +33,7 @@ print(result(a, b))
 ```
 
 ### OUTPUT
-```
 ![Module 2c](https://github.com/user-attachments/assets/682d7198-72b9-45c3-9b5f-2708e0f1d288)
-
 
 ### RESULT
 ```
