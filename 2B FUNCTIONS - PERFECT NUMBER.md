@@ -25,7 +25,6 @@ To write a Python program to check if a number is a Perfect number using the con
 #Reg.No:212223020028
 #Name:Tharani devi.G
 #Add your Code Here
-```
 n = int(input())
 sum1 = 0
 for i in range(1, n):
@@ -35,7 +34,7 @@ if (sum1 == n):
     print("The number is a Perfect number!")
 else:
     print("The number is not a Perfect number!")
-
+```
 ### OUTPUT
 
 ![Module 2A](https://github.com/user-attachments/assets/b3a8fd02-d59c-4294-a14d-b09d999ebe26)
