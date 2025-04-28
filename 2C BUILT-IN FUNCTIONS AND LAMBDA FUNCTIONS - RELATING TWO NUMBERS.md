@@ -4,7 +4,7 @@
 ---
 
 ### AIM  
-To write a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
+To write a Python program to check the relation between two numbers— whether one number is greater than, equal to, or lesser than another — using a lambda function.
 
 ---
 
@@ -22,8 +22,17 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-
 ```
+#Reg.No:212223020028
+#Name:Tharani devi.G
+#Add your Code Here
+result = lambda x,y : f"{x} is smaller than {y}" if x < y else (f"{x} is greater than {y}" if x > y                else f"{x} is equal to {y}")
+a=int(input()) 
+b=int(input())
+ 
+
+print(result(a, b))
+
 
 ```
 
@@ -31,10 +40,13 @@ To write a Python program to check the relation between two numbers — whether 
 
 ```
 
+![Module 2c](https://github.com/user-attachments/assets/e111d21d-6efe-4c9d-b7e0-fb41da933a2f)
+
 ```
 
 ### RESULT
 
 ```
+This program for the  relation between two numbers is successfully is executed.
 
 ```
