@@ -34,8 +34,8 @@ print(result(a, b))
 
 ### OUTPUT
 ```
-![Module 2c](https://github.com/user-attachments/assets/e111d21d-6efe-4c9d-b7e0-fb41da933a2f)
-```
+![Module 2c](https://github.com/user-attachments/assets/682d7198-72b9-45c3-9b5f-2708e0f1d288)
+
 
 ### RESULT
 ```
