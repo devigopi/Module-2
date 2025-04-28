@@ -1,4 +1,4 @@
-![Module 2d](https://github.com/user-attachments/assets/4ae6cd4b-9ad8-4b6e-afd5-e11741694e52)# Exp.No:2d
+ Exp.No:2d
 ## LOOPING PATTERNS - PRINTING PATTERN
 
 ---
