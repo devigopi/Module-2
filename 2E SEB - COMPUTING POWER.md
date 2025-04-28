@@ -20,9 +20,16 @@ To write a Python program to compute the power of a given number using an approp
 ---
 
 ### PROGRAM
-
 ```
+Reg no:212223020028
+Name:Tharani devi.G
+write your code
+a=int(input())
+b=int(input())
+print("Power of the given number is:",pow(a,b))  
 ```
 ### OUTPUT
 
+![Module 2e](https://github.com/user-attachments/assets/35a0ff6e-d730-4ee5-9871-cd2c90fdc40e)
 ### RESULT
+This python program for  power of a given number using an appropriate built-in function.
